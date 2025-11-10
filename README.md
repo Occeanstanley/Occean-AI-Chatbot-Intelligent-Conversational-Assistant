@@ -81,11 +81,6 @@ To extend the chatbot into a **RAG (Retrieval-Augmented Generation)** system cap
 
 ## 🧮 Algorithms and Methods
 
-### 1. Text Chunking
-Documents are split into overlapping chunks to preserve context.
-```python
-chunks = split_text(document, chunk_size=800, overlap=120)
-
 ---
 
 ## 🌟 Deliverable 3 – Final Container-Ready App  
@@ -189,4 +184,3 @@ M.S. Data Science Candidate – Pace University
 - Hugging Face Spaces Deployment Docs  
 
 ---
-
